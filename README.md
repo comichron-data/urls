@@ -1,6 +1,8 @@
 # comichron-data/urls
 
-url builder for accessing https://github.com/comichron-data/api
+Url builder for accessing https://github.com/comichron-data/api
+
+This is a helper module for implementing your own client. See [comichron-data/browser-client](https://github.com/comichron-data/browser-client) for an existing client module.
 
 ## Install
 
