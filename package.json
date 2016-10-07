@@ -1,14 +1,19 @@
 {
   "name": "comichron-data-urls",
   "version": "1.0.0",
-  "description": "",
+  "description": "url builder for accessing https://github.com/comichron-data/api",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["comichron-data", "comichron", "comic"],
+  "author": "Paul Salaets <psalaets@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/comichron-data/urls",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/comichron-data/urls.git"
+  },
   "devDependencies": {
     "tape": "^4.6.2"
   }
